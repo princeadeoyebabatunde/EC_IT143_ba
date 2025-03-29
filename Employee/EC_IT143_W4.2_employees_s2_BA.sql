@@ -1,1 +1,0 @@
-EC_IT143_W4.2_employees_s2_BA.sql
