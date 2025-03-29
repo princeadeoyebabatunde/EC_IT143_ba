@@ -1,2 +1,0 @@
--- The Employees dataset has been imported into SQL Server as the Employees table.
--- Next, I will count the number of employees to answer the question.
