@@ -1,0 +1,3 @@
+-- EC_IT143_W4.2_hello_world_s2_BA.sql
+-- Current status: The Employees dataset has been imported into SQL Server.
+-- Next step: Write a query to count the records in the Employees table.

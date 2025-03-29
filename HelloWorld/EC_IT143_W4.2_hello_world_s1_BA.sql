@@ -1,0 +1,2 @@
+-- EC_IT143_W4.2_hello_world_s1_BA.sql
+-- Question: What is the total number of employees in the Employees dataset?

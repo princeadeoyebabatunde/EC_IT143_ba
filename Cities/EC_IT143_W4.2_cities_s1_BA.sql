@@ -1,0 +1,1 @@
+-- What is the total number of cities in the Cities dataset?
